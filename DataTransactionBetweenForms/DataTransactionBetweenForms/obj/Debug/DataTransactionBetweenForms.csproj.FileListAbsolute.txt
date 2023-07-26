@@ -1,0 +1,12 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\DataTransactionBetweenForms\DataTransactionBetweenForms\bin\Debug\DataTransactionBetweenForms.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\DataTransactionBetweenForms\DataTransactionBetweenForms\bin\Debug\DataTransactionBetweenForms.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\DataTransactionBetweenForms\DataTransactionBetweenForms\bin\Debug\DataTransactionBetweenForms.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\DataTransactionBetweenForms\DataTransactionBetweenForms\obj\Debug\DataTransactionBetweenForms.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\DataTransactionBetweenForms\DataTransactionBetweenForms\obj\Debug\DataTransactionBetweenForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\DataTransactionBetweenForms\DataTransactionBetweenForms\obj\Debug\DataTransactionBetweenForms.Form1.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\DataTransactionBetweenForms\DataTransactionBetweenForms\obj\Debug\DataTransactionBetweenForms.Form2.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\DataTransactionBetweenForms\DataTransactionBetweenForms\obj\Debug\DataTransactionBetweenForms.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\DataTransactionBetweenForms\DataTransactionBetweenForms\obj\Debug\DataTransactionBetweenForms.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\DataTransactionBetweenForms\DataTransactionBetweenForms\obj\Debug\DataTransactionBetweenForms.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\DataTransactionBetweenForms\DataTransactionBetweenForms\obj\Debug\DataTransactionBetweenForms.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\DataTransactionBetweenForms\DataTransactionBetweenForms\obj\Debug\DataTransactionBetweenForms.pdb

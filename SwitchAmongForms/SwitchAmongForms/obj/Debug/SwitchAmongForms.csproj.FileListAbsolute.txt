@@ -1,0 +1,11 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\SwitchAmongForms\SwitchAmongForms\bin\Debug\SwitchAmongForms.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\SwitchAmongForms\SwitchAmongForms\bin\Debug\SwitchAmongForms.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\SwitchAmongForms\SwitchAmongForms\bin\Debug\SwitchAmongForms.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\SwitchAmongForms\SwitchAmongForms\obj\Debug\SwitchAmongForms.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\SwitchAmongForms\SwitchAmongForms\obj\Debug\SwitchAmongForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\SwitchAmongForms\SwitchAmongForms\obj\Debug\SwitchAmongForms.Form1.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\SwitchAmongForms\SwitchAmongForms\obj\Debug\SwitchAmongForms.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\SwitchAmongForms\SwitchAmongForms\obj\Debug\SwitchAmongForms.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\SwitchAmongForms\SwitchAmongForms\obj\Debug\SwitchAmongForms.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\SwitchAmongForms\SwitchAmongForms\obj\Debug\SwitchAmongForms.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\SwitchAmongForms\SwitchAmongForms\obj\Debug\SwitchAmongForms.pdb
