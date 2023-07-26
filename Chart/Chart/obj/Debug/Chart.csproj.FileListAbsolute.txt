@@ -1,0 +1,11 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Chart\Chart\bin\Debug\Chart.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Chart\Chart\bin\Debug\Chart.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Chart\Chart\bin\Debug\Chart.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Chart\Chart\obj\Debug\Chart.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Chart\Chart\obj\Debug\Chart.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Chart\Chart\obj\Debug\Chart.Form1.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Chart\Chart\obj\Debug\Chart.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Chart\Chart\obj\Debug\Chart.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Chart\Chart\obj\Debug\Chart.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Chart\Chart\obj\Debug\Chart.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Chart\Chart\obj\Debug\Chart.pdb
