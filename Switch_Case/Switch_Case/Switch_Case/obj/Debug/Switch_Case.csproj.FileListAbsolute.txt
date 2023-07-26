@@ -1,0 +1,12 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Switch_Case\Switch_Case\Switch_Case\bin\Debug\Switch_Case.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Switch_Case\Switch_Case\Switch_Case\bin\Debug\Switch_Case.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Switch_Case\Switch_Case\Switch_Case\bin\Debug\Switch_Case.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Switch_Case\Switch_Case\Switch_Case\obj\Debug\Switch_Case.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Switch_Case\Switch_Case\Switch_Case\obj\Debug\Switch_Case.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Switch_Case\Switch_Case\Switch_Case\obj\Debug\Switch_Case.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Switch_Case\Switch_Case\Switch_Case\obj\Debug\Switch_Case.FRM1.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Switch_Case\Switch_Case\Switch_Case\obj\Debug\Switch_Case.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Switch_Case\Switch_Case\Switch_Case\obj\Debug\Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Switch_Case\Switch_Case\Switch_Case\obj\Debug\Switch_Case.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Switch_Case\Switch_Case\Switch_Case\obj\Debug\Switch_Case.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Switch_Case\Switch_Case\Switch_Case\obj\Debug\Switch_Case.Switch_Case_Aritmetic.resources
