@@ -1,0 +1,11 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Methods with returns\Methods with returns\bin\Debug\Methods with returns.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Methods with returns\Methods with returns\bin\Debug\Methods with returns.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Methods with returns\Methods with returns\bin\Debug\Methods with returns.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Methods with returns\Methods with returns\obj\Debug\Methods with returns.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Methods with returns\Methods with returns\obj\Debug\Methods with returns.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Methods with returns\Methods with returns\obj\Debug\Methods_with_returns.Form1.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Methods with returns\Methods with returns\obj\Debug\Methods_with_returns.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Methods with returns\Methods with returns\obj\Debug\Methods with returns.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Methods with returns\Methods with returns\obj\Debug\Methods with returns.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Methods with returns\Methods with returns\obj\Debug\Methods with returns.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Methods with returns\Methods with returns\obj\Debug\Methods with returns.pdb
