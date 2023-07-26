@@ -1,0 +1,11 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Do_While\Do_While\Do_While\bin\Debug\Do_While.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Do_While\Do_While\Do_While\bin\Debug\Do_While.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Do_While\Do_While\Do_While\bin\Debug\Do_While.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Do_While\Do_While\Do_While\obj\Debug\Do_While.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Do_While\Do_While\Do_While\obj\Debug\Do_While.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Do_While\Do_While\Do_While\obj\Debug\Do_While.DoWhile.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Do_While\Do_While\Do_While\obj\Debug\Do_While.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Do_While\Do_While\Do_While\obj\Debug\Do_While.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Do_While\Do_While\Do_While\obj\Debug\Do_While.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Do_While\Do_While\Do_While\obj\Debug\Do_While.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Do_While\Do_While\Do_While\obj\Debug\Do_While.pdb
