@@ -2,7 +2,7 @@
 
 That is the thing made me.
 
-👋 Hi, I’m @CodemunHatasi
+👋 Hi, I’m @Codelandins
 
 👀 I’m interested in being part of creating apps and playing it's data base, data analyzing, learning how to make apps and make the code usable and readable
 
