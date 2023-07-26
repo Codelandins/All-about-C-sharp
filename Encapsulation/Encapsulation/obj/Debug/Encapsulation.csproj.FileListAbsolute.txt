@@ -1,0 +1,11 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Encapsulation\Encapsulation\obj\Debug\Encapsulation.Form1.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Encapsulation\Encapsulation\obj\Debug\Encapsulation.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
