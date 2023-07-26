@@ -1,0 +1,11 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\CakeCookProcessApp\CakeCookProcessApp\bin\Debug\CakeCookProcessApp.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\CakeCookProcessApp\CakeCookProcessApp\bin\Debug\CakeCookProcessApp.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\CakeCookProcessApp\CakeCookProcessApp\bin\Debug\CakeCookProcessApp.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\CakeCookProcessApp\CakeCookProcessApp\obj\Debug\CakeCookProcessApp.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\CakeCookProcessApp\CakeCookProcessApp\obj\Debug\CakeCookProcessApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\CakeCookProcessApp\CakeCookProcessApp\obj\Debug\CakeCookProcessApp.Form1.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\CakeCookProcessApp\CakeCookProcessApp\obj\Debug\CakeCookProcessApp.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\CakeCookProcessApp\CakeCookProcessApp\obj\Debug\CakeCookProcessApp.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\CakeCookProcessApp\CakeCookProcessApp\obj\Debug\CakeCookProcessApp.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\CakeCookProcessApp\CakeCookProcessApp\obj\Debug\CakeCookProcessApp.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\CakeCookProcessApp\CakeCookProcessApp\obj\Debug\CakeCookProcessApp.pdb
