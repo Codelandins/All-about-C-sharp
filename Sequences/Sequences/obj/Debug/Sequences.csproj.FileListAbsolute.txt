@@ -1,0 +1,11 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Sequences\Sequences\bin\Debug\Sequences.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Sequences\Sequences\bin\Debug\Sequences.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Sequences\Sequences\bin\Debug\Sequences.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Sequences\Sequences\obj\Debug\Sequences.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Sequences\Sequences\obj\Debug\Sequences.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Sequences\Sequences\obj\Debug\Sequences.Form1.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Sequences\Sequences\obj\Debug\Sequences.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Sequences\Sequences\obj\Debug\Sequences.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Sequences\Sequences\obj\Debug\Sequences.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Sequences\Sequences\obj\Debug\Sequences.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Sequences\Sequences\obj\Debug\Sequences.pdb
