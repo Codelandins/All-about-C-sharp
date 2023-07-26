@@ -1,0 +1,11 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Cinema_Bufe_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\bin\Debug\Cinema_Bufe_Sales.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Cinema_Bufe_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\bin\Debug\Cinema_Bufe_Sales.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Cinema_Bufe_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\bin\Debug\Cinema_Bufe_Sales.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Cinema_Bufe_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Cinema_Bufe_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Cinema_Bufe_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.Form1.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Cinema_Bufe_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Cinema_Bufe_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Cinema_Bufe_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Cinema_Bufe_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Cinema_Bufe_Sales\Cinema_Bufe_Sales\Cinema_Bufe_Sales\obj\Debug\Cinema_Bufe_Sales.pdb

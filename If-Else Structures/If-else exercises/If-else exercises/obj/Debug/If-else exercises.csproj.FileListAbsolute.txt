@@ -1,0 +1,11 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\If-Else Structures\If-else exercises\If-else exercises\bin\Debug\If-else exercises.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\If-Else Structures\If-else exercises\If-else exercises\bin\Debug\If-else exercises.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\If-Else Structures\If-else exercises\If-else exercises\bin\Debug\If-else exercises.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\If-Else Structures\If-else exercises\If-else exercises\obj\Debug\If-else exercises.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\If-Else Structures\If-else exercises\If-else exercises\obj\Debug\If-else exercises.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\If-Else Structures\If-else exercises\If-else exercises\obj\Debug\If_else_exercises.Form1.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\If-Else Structures\If-else exercises\If-else exercises\obj\Debug\If_else_exercises.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\If-Else Structures\If-else exercises\If-else exercises\obj\Debug\If-else exercises.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\If-Else Structures\If-else exercises\If-else exercises\obj\Debug\If-else exercises.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\If-Else Structures\If-else exercises\If-else exercises\obj\Debug\If-else exercises.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\If-Else Structures\If-else exercises\If-else exercises\obj\Debug\If-else exercises.pdb
