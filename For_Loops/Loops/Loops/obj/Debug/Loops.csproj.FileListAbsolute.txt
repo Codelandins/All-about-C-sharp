@@ -1,0 +1,12 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Loops\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Loops\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Loops\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Loops\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Loops\Loops\Loops\obj\Debug\Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Loops\Loops\Loops\obj\Debug\Loops.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Loops\Loops\Loops\obj\Debug\Loops.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Loops\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Loops\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Loops\Loops\Loops\obj\Debug\Loops.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Loops\Loops\Loops\obj\Debug\Loops.Consecutive_Number_Sums.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Loops\Loops\Loops\obj\Debug\Loops.Loop_Introduction.resources

@@ -1,0 +1,11 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\While_Loops\While Loops\While Loops\bin\Debug\While Loops.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\While_Loops\While Loops\While Loops\bin\Debug\While Loops.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\While_Loops\While Loops\While Loops\bin\Debug\While Loops.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\While_Loops\While Loops\While Loops\obj\Debug\While Loops.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\While_Loops\While Loops\While Loops\obj\Debug\While Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\While_Loops\While Loops\While Loops\obj\Debug\While_Loops.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\While_Loops\While Loops\While Loops\obj\Debug\While_Loops.Form1.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\While_Loops\While Loops\While Loops\obj\Debug\While Loops.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\While_Loops\While Loops\While Loops\obj\Debug\While Loops.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\While_Loops\While Loops\While Loops\obj\Debug\While Loops.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\While_Loops\While Loops\While Loops\obj\Debug\While Loops.pdb
