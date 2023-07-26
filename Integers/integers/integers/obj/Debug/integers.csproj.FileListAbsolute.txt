@@ -1,0 +1,15 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Integers\integers\integers\bin\Debug\integers.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Integers\integers\integers\bin\Debug\integers.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Integers\integers\integers\bin\Debug\integers.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Integers\integers\integers\obj\Debug\integers.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Integers\integers\integers\obj\Debug\integers.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Integers\integers\integers\obj\Debug\integers.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Integers\integers\integers\obj\Debug\integers.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Integers\integers\integers\obj\Debug\integers.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Integers\integers\integers\obj\Debug\integers.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Integers\integers\integers\obj\Debug\integers.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Integers\integers\integers\obj\Debug\integers.Aritmetic_Operations.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Integers\integers\integers\obj\Debug\integers.Integers.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Integers\integers\integers\obj\Debug\integers.Double_Variables.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Integers\integers\integers\obj\Debug\integers.Variables_Exercises.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Integers\integers\integers\obj\Debug\integers.Char_Variable.resources
