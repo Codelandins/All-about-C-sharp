@@ -1,0 +1,11 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Captcha\Captcha\bin\Debug\Captcha.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Captcha\Captcha\bin\Debug\Captcha.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Captcha\Captcha\bin\Debug\Captcha.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Captcha\Captcha\obj\Debug\Captcha.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Captcha\Captcha\obj\Debug\Captcha.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Captcha\Captcha\obj\Debug\Captcha.Form1.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Captcha\Captcha\obj\Debug\Captcha.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Captcha\Captcha\obj\Debug\Captcha.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Captcha\Captcha\obj\Debug\Captcha.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Captcha\Captcha\obj\Debug\Captcha.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Captcha\Captcha\obj\Debug\Captcha.pdb

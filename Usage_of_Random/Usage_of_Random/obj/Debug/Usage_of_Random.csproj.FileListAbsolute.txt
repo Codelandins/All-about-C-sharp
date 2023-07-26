@@ -1,0 +1,12 @@
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Usage_of_Random\Usage_of_Random\bin\Debug\Usage_of_Random.exe.config
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Usage_of_Random\Usage_of_Random\bin\Debug\Usage_of_Random.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Usage_of_Random\Usage_of_Random\bin\Debug\Usage_of_Random.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Usage_of_Random\Usage_of_Random\obj\Debug\Usage_of_Random.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Usage_of_Random\Usage_of_Random\obj\Debug\Usage_of_Random.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Usage_of_Random\Usage_of_Random\obj\Debug\Usage_of_Random.Form1.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Usage_of_Random\Usage_of_Random\obj\Debug\Usage_of_Random.Properties.Resources.resources
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Usage_of_Random\Usage_of_Random\obj\Debug\Usage_of_Random.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Usage_of_Random\Usage_of_Random\obj\Debug\Usage_of_Random.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Usage_of_Random\Usage_of_Random\obj\Debug\Usage_of_Random.exe
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Usage_of_Random\Usage_of_Random\obj\Debug\Usage_of_Random.pdb
+C:\Users\mehme\Desktop\Udemy Murat Yucedag\Usage_of_Random\Usage_of_Random\obj\Debug\Usage_of_Random.FortuneGame.resources
